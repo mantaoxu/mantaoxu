@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=mantaoxu&theme=highcontrast&show_icons=true&count_private=true&bg_color=)
 
 <!--
 **mantaoxu/mantaoxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
