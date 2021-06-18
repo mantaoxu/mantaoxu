@@ -21,7 +21,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img alt="Doris's GitHub Stats" src="http://github-readme-stats-mantaoxu.vercel.app/api?username=mantaoxu&show_icons=true&hide_border=true" />
+  <img alt="Doris's GitHub Stats" src="https://github-readme-stats-gamma-sandy.vercel.app/api?username=mantaoxu&show_icons=true&hide_border=true" />
 
 </details>
 
