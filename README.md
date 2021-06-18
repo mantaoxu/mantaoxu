@@ -15,15 +15,17 @@
 
 
 <br />
-
+<br />
 
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Doris's GitHub Stats" src="github-readme-stats-hazel-omega.vercel.app/api?username=mantaoxu&show_icons=true&hide_border=true" />
+  <img align="left" alt="Doris's GitHub Stats" src="https://github.com/mantaoxu/github-readme-stats/api?username=mantaoxu&show_icons=true&hide_border=true" />
 
 </details>
+
+<br />
 
 [twitter]: https://twitter.com/mantaoxu2
 [instagram]: https://www.instagram.com/dordordoriss/
