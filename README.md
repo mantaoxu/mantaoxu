@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I love photography and play guitar.
 
 
-<!-- <div align="center"> -->
+<div align="center">
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <br> </br>
