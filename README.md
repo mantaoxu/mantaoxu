@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/dordordoriss/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 Mantao Xu | 🌏 California, USA 🇺🇸</h3> 
+<h3> 👩🏻 Mantao(Doris) Xu | 🌏 California, USA 🇺🇸</h3> 
   <h4> I'm a 👧Daughter, 🧍‍♀️Sister, 👩🏻‍💻Developer, and a 👬Friend❕❕</h4>
 </div>
 
@@ -23,7 +23,8 @@
 <!-- <div align="center"> -->
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-![DORIS's github stats](https://github-readme-stats2-mantaoxu.vercel.app/api/?username=mantaoxu&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
+<br> </br>
+![DORIS's github stats](https://github-readme-stats2-mantaoxu.vercel.app/api/?username=mantaoxu&show_icons=true&title_color=87aaff&icon_color=87baff&text_color=b7b2ff&bg_color=b7f2ff) 
 
 
 </div>
