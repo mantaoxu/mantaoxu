@@ -9,7 +9,7 @@
 
 <div align="center">
 <h3> 👩🏻 Mantao Xu | 🌏 California, USA 🇺🇸</h3> 
-  <h4> I'm a 👧Daughter, 🧍‍♀️Sister, 👩🏻‍💻Developer, and a 👬Friend!!</h4>
+  <h4> I'm a 👧Daughter, 🧍‍♀️Sister, 👩🏻‍💻Developer, and a 👬Friend❕❕</h4>
 </div>
 
 ### About me 
