@@ -1,6 +1,18 @@
-### Hi there, I'm Doris - aka [codeChaser] 👋
+<div align="center">
+  <h1> Hello World<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
+ 
+<p align='center'> 
+<a href="https://www.linkedin.com/in/mantao-doris-xu-175b48a8/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/mantaoxu2"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/dordordoriss/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
-## I'm a Daughter, Sister, Developer, and a Friend!!
+<div align="center">
+<h3> 👩🏻 Mantao Xu | 🌏 California, USA 🇺🇸</h3> 
+  <h4> I'm a 👧Daughter, 🧍‍♀️Sister, 👩🏻‍💻Developer, and a 👬Friend!!</h4>
+</div>
+
+### About me 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -8,25 +20,10 @@
 - ⚡ Fun fact: I love photography and play guitar.
 
 
-### Connect with me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- <div align="center"> -->
+
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+![DORIS's github stats](https://github-readme-stats.vercel.app/api/?username=mantaoxu&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff) 
 
 
-<br />
-<br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Doris's GitHub Stats" src="https://github-readme-stats-gamma-sandy.vercel.app/api?username=mantaoxu&show_icons=true&hide_border=true" />
-
-</details>
-
-<br />
-
-[twitter]: https://twitter.com/mantaoxu2
-[instagram]: https://www.instagram.com/dordordoriss/
-[linkedin]: https://www.linkedin.com/in/mantao-doris-xu-175b48a8/
+</div>
