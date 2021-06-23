@@ -24,7 +24,7 @@
 
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 <br> </br>
-![DORIS's github stats](https://github-readme-stats2-mantaoxu.vercel.app/api/?username=mantaoxu&show_icons=true&title_color=87aaff&icon_color=87baff&text_color=b7b2ff&bg_color=b7f2ff) 
+![Gina's github stats](https://github-readme-stats2-mantaoxu.vercel.app/api/?username=mantaoxu&show_icons=true&title_color=87aaff&icon_color=87baff&text_color=b7b2ff&bg_color=b7f2ff) 
 
 
 </div>
