@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/dordordoriss/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
 <div align="center">
-<h3> 👩🏻 Mantao(Doris) Xu | 🌏 California, USA 🇺🇸</h3> 
+<h3> 👩🏻 Mantao(Gina) Xu | 🌏 California, USA 🇺🇸</h3> 
   <h4> I'm a 👧Daughter, 🧍‍♀️Sister, 👩🏻‍💻Developer, and a 👬Friend❕❕</h4>
 </div>
 
