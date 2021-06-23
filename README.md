@@ -3,7 +3,7 @@
 </div>
  
 <p align='center'> 
-<a href="https://www.linkedin.com/in/mantao-doris-xu-175b48a8/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mantao-gina-xu-175b48a8/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/mantaoxu2"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/dordordoriss/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/instagram.png?raw=true"></a>&nbsp;&nbsp;
 
