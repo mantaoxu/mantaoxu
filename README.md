@@ -20,11 +20,6 @@
 - ⚡ Fun fact: I love photography and play guitar.
 
 
-<div align="center">
-
 ✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
-<br> </br>
-![Gina' github stats](https://github-readme-stats2-mantaoxu.vercel.app/api/?username=mantaoxu&show_icons=true&title_color=87aaff&icon_color=87baff&text_color=b7b2ff&bg_color=b7f2ff) 
-
 
 </div>
